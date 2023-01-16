@@ -1,1 +1,19 @@
 
+{
+  "name": "bot2",
+  "version": "1.0.0",
+  "description": "Mon projet utilisant mineflayer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Pas de tests configurés\" && exit 1"
+  },
+  "author": "Flogss",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^4.6.0"
+  }
+}
+
+
+
+
