@@ -1,7 +1,7 @@
 {
   "version": 2,
   "builds": [
-    { "src": "bot2.js", "use": "@now/node" }
+    { "src": "bot2.js", "use": "@mineflayer" }
   ],
   "routes": [
     { "src": "/", "dest": "bot2.js" }
