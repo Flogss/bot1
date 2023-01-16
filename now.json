@@ -1,10 +1,10 @@
 {
   "version": 2,
   "builds": [
-    { "src": "bot.js", "use": "@now/node" }
+    { "src": "bot2.js", "use": "@now/node" }
   ],
   "routes": [
-    { "src": "/", "dest": "bot.js" }
+    { "src": "/", "dest": "bot2.js" }
   ],
   "env": {
     "NODE_ENV": "production"
